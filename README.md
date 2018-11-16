@@ -3,7 +3,7 @@
 ## latihan1.cpp : Membuat fungsi sederhana
 
 **Alur algoritma**
-1. Mendeklarasikan variabel 'int sum(int a,int b);' sebagai variable input.
+1. Mendeklarasikan variabel `int sum(int a,int b);` sebagai variable input.
 2. Membaca input dari keyboard `cin >> a >> b;`
 3. Membandingkan nilai variable int a, b;
 				cin >> a >> b;
@@ -60,7 +60,7 @@ int sum(int num1, int num2){
 ## latihan2.cpp :  Mengembangkan aplikasi dengan membuat fungsi dari hasil praktikum sebelumnya menjadi satu aplikasi dengan menampilkan menu pilihan.
 
 **Alur algoritma**
-1. Mendeklarasikan variabel 'void terbesar,urut_data;' sebagai variable input.
+1. Mendeklarasikan variabel `void terbesar,urut_data;` sebagai variable input.
 2. Membaca input dari keyboard `cin >> a`
 3. Membandingkan nilai variable  cout << "Nilai terbesar adalah: " << max;
    				 cout << "\n\n";
@@ -157,7 +157,7 @@ void urut_data() {
 ## latihan3.cpp : Kembangkan aplikasi dengan menggunakan file header (memisahkan fungsi kedalam file terpisah).
 
 **Alur algoritma**
-1. Mendeklarasikan variabel 'void terbesar,urut_data;' sebagai variable input.
+1. Mendeklarasikan variabel `void terbesar,urut_data;` sebagai variable input.
 2. Membaca input dari keyboard `cin >> a`
 3. Membandingkan nilai variable cout << "Nilai terbesar adalah: " << max;
     				cout << "\n\n"; 
