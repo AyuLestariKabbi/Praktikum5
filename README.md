@@ -55,7 +55,7 @@ int sum(int num1, int num2){
     int num3 = num1+num2;
     return num3;
 }
-
+```
 
 ## latihan2.cpp :  Mengembangkan aplikasi dengan membuat fungsi dari hasil praktikum sebelumnya menjadi satu aplikasi dengan menampilkan menu pilihan.
 
@@ -152,6 +152,7 @@ void urut_data() {
         }
         }
     }
+```
 
 ## latihan3.cpp : Kembangkan aplikasi dengan menggunakan file header (memisahkan fungsi kedalam file terpisah).
 
